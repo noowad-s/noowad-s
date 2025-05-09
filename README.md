@@ -1,6 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=blur)
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=2,3,4,17,26)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2,3,4,17,26)
 
 
 <!--
