@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2,3,4,17,2,17,4,26,3&height=180&text=noowad's%20github&fontSize=42&fontColor=787b81)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noowad-s)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
