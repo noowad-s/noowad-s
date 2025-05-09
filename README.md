@@ -31,7 +31,11 @@
 </div>
 </details>
 
-<div align=center>
+<details>
+<summary>Skills</summary>
+<div markdown="1">
+  
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -60,6 +64,9 @@
     <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+
+</div>
+</details>
 
 <!--
 **noowad-s/noowad-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
