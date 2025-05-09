@@ -4,7 +4,7 @@
 <summary>Projects</summary>
 <div markdown="1">
 
-|기간|참여|프로젝트|소개|링크|
+|기간|참여파트|프로젝트|소개|링크|
 |:-:|:-:|:-|:-|:-:|
 |<sub>2024.06 ~2024.08</sub> | Design | **✏ 끼적** | 당신의 끼를 적어두세요 | [🔗](https://www.kkijuk.com/) |
 |<sub>2024.04 ~ 2024.05</sub> | Frontend | **💊 Formedi** | 외국어 복약지도 가능 의료기관 안내 플랫폼 | [👩🏻‍💻](https://github.com/noowad-s/formedi.git) &nbsp; |
