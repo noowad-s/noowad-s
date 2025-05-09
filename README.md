@@ -5,7 +5,7 @@
 <div markdown="1">
 
 |기간|참여|프로젝트|소개|링크|
-|:-:|:-|:-|:-|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 |<sub>2024.06 ~2024.08</sub> | Design | **✏ 끼적** | 당신의 끼를 적어두세요 | [🔗](https://www.kkijuk.com/) |
 |<sub>2024.04 ~ 2024.05</sub> | Frontend | **💊 Formedi** | 외국어 복약지도 가능 의료기관 안내 플랫폼 | [👩🏻‍💻](https://github.com/noowad-s/formedi.git) &nbsp; |
 |<sub>2023.12 ~ 2024.02</sub> | Frontend | **🐧 AvAb** | 레크레이션을 보다 쉽게, 아브아브 | [👩🏻‍💻](https://github.com/TeamAvAb/AvAb-Front.git) &nbsp; [🔗](https://avab.site/) |
@@ -21,7 +21,7 @@
 <div markdown="1">
   
 |기간|활동명|기수|파트|직책|
-|:-:|-:|-:|-:|:-|
+|:-:|:-:|:-:|:-:|:-:|
 |<sub>2024.09 ~ 25.02</sub>| IT 대학생 연합 프로젝트 동아리 **UMC** | 7기 | 중앙운영사무국 | 홍보디자인국장, 교내 Web 파트장
 |<sub>2024.03 ~ 24.08</sub>| IT 대학생 연합 프로젝트 동아리 **UMC** | 6기 | Design | 교내 회장, 교내 Web 파트장, Design 파트원 
 |<sub>2023.09 ~ 24.02</sub>| IT 대학생 연합 프로젝트 동아리 **UMC** | 5기 | Web | 교내 회장, Web 파트원
