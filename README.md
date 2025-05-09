@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2,3,4,17,2,3,17,26,3&height=180&text=noowad's%20github&fontSize=42&fontColor=787b81)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2,3,4,2,17,26,3&height=180&text=noowad's%20github&fontSize=42&fontColor=787b81)
 
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
