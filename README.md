@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2,3,4,17,2,17,4,26,3&height=180&text=noowad's%20github&fontSize=42&fontColor=787b81)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noowad-s)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noowad-s)](https://github.com/noowad-s/github-readme-stats)
 
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -32,6 +31,39 @@
     <br>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
+
+
+
+<details>
+<summary>Projects</summary>
+<div markdown="1">
+
+|기간|참여|프로젝트|소개|링크|
+|:-:|:-|:-|:-|:-:|
+|<sub>2024.06 ~2024.08</sub> | Design | **✏ 끼적** | 당신의 끼를 적어두세요 | [🔗](https://www.kkijuk.com/) |
+|<sub>2024.04 ~ 2024.05</sub> | Frontend | **💊 Formedi** | 외국어 복약지도 가능 의료기관 안내 플랫폼 | [👩🏻‍💻](https://github.com/noowad-s/formedi.git) &nbsp; |
+|<sub>2023.12 ~ 2024.02</sub> | Frontend | **🐧 AvAb** | 레크레이션을 보다 쉽게, 아브아브 | [👩🏻‍💻](https://github.com/TeamAvAb/AvAb-Front.git) &nbsp; [🔗](https://avab.site/) |
+|<sub>2023.06 ~ 2023.08</sub> | Frontend | **🎁 To.mate** | 친구 한 명의 기념일도 놓치지 못하는 ESFJ를 위한 To.Mate | [👩🏻‍💻](https://github.com/5th-UMC-N-team/ESFJ-frontend.git) &nbsp; |
+|<sub>2023.06 ~ 2023.08</sub> | Frontend | **🌟 Festie** | 축제도 보고, 친구도 사귀고! | [👩🏻‍💻](https://github.com/UMC-Festie/Festie-FE.git) &nbsp; |
+|<sub>2022.12 ~ 2023.02</sub> | Frontend | **🌈 Lifolio** | Life + Portfolio : 내 인생을 포트폴리오로! | [👩🏻‍💻](https://github.com/noowad-s/Lifolio.git) &nbsp; |
+
+</div>
+</details>
+
+<details>
+<summary>Activity</summary>
+<div markdown="1">
+  
+|기간|활동명|기수|파트|직책|
+|:-:|-:|-:|-:|:-|
+|<sub>2024.09 ~ 25.02</sub>| IT 대학생 연합 프로젝트 동아리 **UMC** | 7기 | 중앙운영사무국 | 홍보디자인국장, 교내 Web 파트장
+|<sub>2024.03 ~ 24.08</sub>| IT 대학생 연합 프로젝트 동아리 **UMC** | 6기 | Design | 교내 회장, 교내 Web 파트장, Design 파트원 
+|<sub>2023.09 ~ 24.02</sub>| IT 대학생 연합 프로젝트 동아리 **UMC** | 5기 | Web | 교내 회장, Web 파트원
+|<sub>2023.02 ~ 23.08</sub>| IT 대학생 연합 프로젝트 동아리 **UMC** | 4기 | Web | 교내 부회장, Web 파트원
+|<sub>2022.09 ~ 23.02</sub>| IT 대학생 연합 프로젝트 동아리 **UMC** | 3기 | Android | Android 파트원
+
+</div>
+</details>
 
 <!--
 **noowad-s/noowad-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
