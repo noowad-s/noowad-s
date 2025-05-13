@@ -6,32 +6,22 @@
     width="600"
     height="120"
   />
-</a>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noowad-s&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/noowad-s?pet-id=710041735963361299"
     width="600"
     height="120"
   />
-</a>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noowad-s&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/noowad-s?pet-id=710041737490098126"
     width="600"
     height="120"
   />
-</a>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noowad-s&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/noowad-s?pet-id=710041489812251103"
     width="600"
     height="120"
   />
 </a>
-  
   
 <details>
 <summary>Projects</summary>
