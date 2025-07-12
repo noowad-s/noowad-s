@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=2,3,17,2,17,26,3&height=180&text=noowad's%20github&fontSize=42&fontColor=787b81)
 
 <p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noowad-s&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/noowad-s"
-      width="600"
-      height="300"
-      style="border: none;"
-    />
-  </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=noowad-s&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/noowad-s"
+  width="600"
+  height="300"
+/>
+</a>
 </p>
   
 <details>
